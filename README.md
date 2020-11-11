@@ -1,20 +1,16 @@
 ## Hello, I'm Michael
 
 ### I'm a Developer with a passion for Open Source
-### Currently I'm:
-- Rebuilding my website [Starcore Labs][website]
-- Learning [11ty.js](https://www.11ty.dev/) for building static sites
-- Gearing up to start making YouTube videos
-- Fun fact: I love setting up linux servers
+### Currently:
+- I built my website [Starcore Labs][website] using [11ty.js](https://www.11ty.dev/).
+- I'm working on code projects.
+- Providing Freelance Web Development to small businesses.
 
 ### Connect with me:
-
 [<img align="left" alt="globe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <br />
 
 ### Languages and Tools:
