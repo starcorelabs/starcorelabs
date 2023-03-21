@@ -1,8 +1,7 @@
 ## Hello, I'm Michael
 
-### I'm a UX/UI Designer with a love for Linux and Open Source software. 
+### I'm a UX/UI Designer 
 ### Currently:
-- I'm working remotely for a good company on UX/UI Design projects.
 - I offer freelance Graphic Design and UX/UI Design services.
 
 ### Tools:
