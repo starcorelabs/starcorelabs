@@ -1,8 +1,10 @@
 ## Hello, I'm Michael
 
-### I'm a UX/UI Designer 
-### Currently:
-- I offer freelance Graphic Design and UX/UI Design services.
+I'm a UX/UI Designer with 10 years of experience working in corporate environments.
+
+I've collaborated on many types of projects. From single landing pages and static sites. To corporate web applications and large-scale eCommerce platforms.
+
+My focus is on designing streamlined user interfaces for web and mobile applications. I'm always learning something new.
 
 ### Tools:
 
