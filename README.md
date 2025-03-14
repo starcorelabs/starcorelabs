@@ -1,10 +1,6 @@
 ## Hello, I'm Michael
-
-I'm a UX/UI Designer with 10 years of experience working in corporate environments.
-
-I've collaborated on many types of projects. From single landing pages and static sites. To corporate web applications and large-scale eCommerce platforms.
-
-My focus is on designing streamlined user interfaces for web and mobile applications. I'm always learning something new.
+I'm a former front-end developer who changed careers to UX/UI design.
+Below is a list of the design tools I use.
 
 ### Tools:
 
